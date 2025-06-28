@@ -97,6 +97,9 @@ Para configurar e executar o projeto Roubank em seu ambiente local, siga os pass
 - React Native: Framework para desenvolvimento de aplicativos móveis nativos.
 - JavaScript: Linguagem de programação principal.
 
+## Layout que o App foi baseado
+<img src="https://github.com/user-attachments/assets/a1db4b41-1f20-4564-bfe6-dfef17687468" width="50%" height="50%">
+
  ## Projeto Funcionando
 
 https://github.com/user-attachments/assets/29d85eba-2a69-47e4-b383-153b3754d5b8
